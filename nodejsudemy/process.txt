@@ -1,0 +1,5 @@
+if we place the node module in the file and in another outer file if we create a js file with console.log(process)
+then we get the process like the keywords the module have and the kind of sybol we need to use to use that propoerty
+
+ahile samma nasikeko kura
+

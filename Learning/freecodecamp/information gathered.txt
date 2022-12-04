@@ -1,0 +1,73 @@
+twilio is the collection of api for different thigns 
+like messaging , the verififcaiton code, the traffic, the tempreture and som much more 
+it is basicallly the business of the api's you use in the website to make the 
+website make full of the resources
+the great industy of apis 
+it even sent the msg  to my phone , however not to another phone as 
+the charge is also the matter
+and i checked the messaging api in nepal and i found some of the apislike 
+akash bulk messaging api 
+and sparrow messaging api its like more then 1 ruppes  to one message at a time 
+but in a bulk as teahcer said of CG , the cost is vastly different 
+also, one thint to conside for the api for messaging thing 
+the connection of message to the message app thorugh unlimited plan can be a alternative 
+though it takes time to build that , we can learn from videos how to create that
+
+and now i am in the postman app which is platform for development of api
+
+
+postman  =  generate code
+HTTP request are needed to interact with rest api
+biolerplate code: repetative code with less tool and more code
+helperliberary code is made to overcome that problem 
+more precise and legitable
+
+checking helperliberary { understanding in my mind::::
+
+basically, helperliberary vaneko connecting the operation 
+required in the form or the way we need the api , is available in differne t language
+and
+they are powerful
+creating , updating , deleting, reading  
+through different language available according to the need
+ani, that's it 
+tesko lagi hamile api id , api token use gareu 
+api dokan ko module use gareu 
+basicallly, modules contains the keyword which are made without overriding the node or any other codes , rules 
+like without violating their keyword 
+if available, they prefer original code for their modules
+however, the modules are needed to connect as 
+encryption or decryption happens,
+as that api business itself is selling their api , like messaging verification 
+in different paying sectors
+so, that's why there is profit for them, but only in bulk size 
+}
+they abstract the way the http client connection of the REST API boiler plate
+they also behave as you expect them to behave
+uniform use of the http verbs is pretty powerful
+
+
+exploring external apis
+CLI 
+command line interface
+used to make API call from an executable from your machine
+
+
+implementing the external api 
+to send the slack message: confession thing or feedback
+to send the message before the bus reaches (10 min before)
+
+
+now embedding in the web application
+ 
+
+ glich.com 
+ to create the existed project
+
+ we are going to use a web framework called flask
+ flask provides an API 
+ that lets you extend the framework
+ to create your application
+means , the page will only be created on the server side
+ any change require full page reload
+ 
